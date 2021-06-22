@@ -1,0 +1,83 @@
+*{
+    box-sizing: border-box;
+}
+.container-fluid{
+    background-color: #3788F7;
+}
+.nav-item{
+    text-align: center;
+    margin: 10px 10px 10px 10px;   
+}
+.nav-link{
+    padding: 1px;
+}
+.navbar-brand{
+    font-family: 'Domine', serif;
+    font-size: 30px;
+}
+.btn-outline-success{
+    border: 1px solid black;
+    background-color:#6DC4E0 ;      
+}
+.form-control {
+    border: 1px solid black;   
+}
+.row {
+    margin: 10px;
+}
+.card-img-overlay{
+    margin: 2px 2px 2px 2px;
+    text-align: justify;
+}
+.carousel-inner{
+    border: 1px solid black;
+}
+.card{
+    border: 1px solid black; 
+}
+.card-img{
+    max-width: 100%;
+    height: 620px;
+}
+.card-title1{
+    font-size: 50px;
+    font-family: 'Domine', serif;
+    color: yellow;
+    text-align: center;
+    margin: 200px 20px 10px 10px;
+    font-size: calc(2em + 1vw)
+}
+.card-text1{
+    font-size: 20px;
+    font-family: 'Domine', serif;
+    color: yellow;
+    text-align: center;
+    margin:  5spx;
+}
+.card-title{
+    font-size: 20px;
+    font-family: 'Domine', serif;
+    color: black;
+    text-align: center;
+    margin: 2px;
+}
+.btn-primary{
+    padding: 2px;
+    margin: 30%;
+    text-align:center;
+}
+h3{
+    font-size: 40px;
+    font-family: 'Domine', serif;
+    color: yellow;
+    margin: 0 auto;
+    font-size: calc(2em + 1vw)
+}
+.container2{
+     max-width: 100%;
+     display:flex;  
+}
+.row2{  
+    width: 50%;
+    margin: 2px;   
+}
